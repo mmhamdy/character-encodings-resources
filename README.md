@@ -9,3 +9,7 @@ This is a collection of various resources for reading about and understanding ch
 3. [Character encodings: Essential concepts](https://www.w3.org/International/articles/definitions-characters/), by Richard Ishida in *W3C*.
 4. [Unicode & Character Encodings in Python: A Painless Guide](https://realpython.com/python-encodings-guide/), by Brad Solomon in *Real Python*.
 5. [Unicode Characters – What Every Developer Must Know About Encoding](https://www.freecodecamp.org/news/everything-you-need-to-know-about-encoding/), by Kealan Parr in *freeCodeCamp*.
+
+## Videos
+
+1. [Code Pages, Character Encoding, Unicode, UTF-8 and the BOM](https://www.youtube.com/watch?v=jeIBNn5Y5fI&t=269s).
