@@ -13,3 +13,4 @@ This is a collection of various resources for reading about and understanding ch
 ## Videos
 
 1. [Code Pages, Character Encoding, Unicode, UTF-8 and the BOM](https://www.youtube.com/watch?v=jeIBNn5Y5fI&t=269s).
+2. [Characters, Symbols and the Unicode Miracle - Computerphile](https://www.youtube.com/watch?v=MijmeoH9LT4&t=143s).
